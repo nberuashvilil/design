@@ -14,15 +14,17 @@
     .logo_burger {
         max-width: 50px;
         width: 100%;
-        
         height: 50px;
         position: fixed;
         margin: auto;
+        color: #FF2288;
+
 
         background-color: #FF2288;
     }
     .burger {
         margin: auto;
+        width: 100%;
         /* position: fixed; */
         /* background-color: black; */
     }

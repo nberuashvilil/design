@@ -58,7 +58,8 @@ ol{
 .logo_burger {
     display: flex;
     justify-content: space-between;
-    padding: 25px;
+    /* padding: 15px; */
+    padding-top: 25px;
     margin-bottom: 106px;
     align-items: center;
 
